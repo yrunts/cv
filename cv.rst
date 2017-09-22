@@ -7,10 +7,10 @@ Software Engineer
 
 About
 -------------------
-Having started my career working on small dynamic projects 8 years ago,
+Having started my career working on small dynamic projects 9 years ago,
 I've extended my expertise to developing RIA's on enterprise level, using MVC
 frameworks and design patterns. For possibility to develop and maintain all
-application’s layers I started using Python 4 years ago and now it is my
+application’s layers I started using Python 6 years ago and now it is my
 mostly used programming language. Web development was always my main priority
 so I’m skilled in using HTML/CSS/JS stack and experienced in working with
 Django and Flask. Participation in OpenStack global community is one of the
@@ -27,12 +27,13 @@ Contact information
 Technical skills
 ----------------
 :Coding: Python, ActionScript 3, JavaScript, TypeScript
-:Web Frameworks: Django, Flask, Google App Engine, Flex, Angular, Angular2
+:Web Frameworks: Django, Flask, Google App Engine, Flex, Angular, Angular2,
 :Databases: PostgreSQL, MySQL, MongoDB
 :Project Management: Git, SVN
-:Operating Systems: MacOS, Linux/Ubuntu, Windows
-:System: Nginx, uWSGI, Gunicorn, Redis, Memcahce, RabbitMQ, Vagrant
-:Platforms: Heroku, AWS, OpenStack based clouds
+:System: Nginx, uWSGI, Gunicorn, Redis, Memcahce, RabbitMQ, Vagrant, Docker,
+    Graylog
+:Platforms: Heroku, AWS, OpenStack based clouds, GCP
+:Operating Systems: MacOS, Linux/Ubuntu
 
 Languages
 ---------
@@ -42,7 +43,20 @@ Languages
 Experience
 ----------
 
-EPAM Systems (07.2010 - present)
+N-iX (03.2017 - present)
+++++++++++++++++++++++++
+
+- **FINQR.** Service for automated invoice management and bookkeping.
+
+    **Responsibilities:** Team leading. Project architecture development.
+    Appling the twelve-factor app methodology. REST API implementation.
+
+    **Used technologies:** Python 3, PostgreSQL, RabbitMQ, Flask, SQLAlchemy,
+    Celery, React, Redux, Docker, Kubernetes, Google Cloud Storage
+
+
+
+EPAM Systems (07.2010 - 03.2017)
 ++++++++++++++++++++++++++++++++
 
 - **RetSKU.** SaaS platform for collecting and analysing sales data.
