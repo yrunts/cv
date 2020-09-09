@@ -1,134 +1,240 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:yevhenrunts@gmail.com) >> /Border [ 0 0 0 ] /Rect [ 153.7323 524.7736 263.9123 536.7736 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:yevhenrunts@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 647.7736 263.9123 659.7736 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/yrunts) >> /Border [ 0 0 0 ] /Rect [ 153.7323 494.7736 262.6723 506.7736 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/yrunts)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 602.7736 262.6723 614.7736 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Annots [ 4 0 R 5 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<<
+/Annots [ 4 0 R 5 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
 7 0 obj
-<< /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 8 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.gruveo.com/) >> /Border [ 0 0 0 ] /Rect [ 132.3529 702.0236 241.8329 714.0236 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gruveo.com/)
+>> /Border [ 0 0 0 ] /Rect [ 132.3529 246.0236 241.8329 258.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 9 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.allstatebanners.com/banner-designer/) >> /Border [ 0 0 0 ] /Rect [ 132.3529 618.0236 349.6629 630.0236 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.allstatebanners.com/banner-designer/)
+>> /Border [ 0 0 0 ] /Rect [ 132.3529 162.0236 349.6629 174.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 10 0 obj
-<< /A << /S /URI /Type /Action /URI (https://code.google.com/p/flex4-mp3-player/) >> /Border [ 0 0 0 ] /Rect [ 132.3529 546.0236 326.8829 558.0236 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://code.google.com/p/flex4-mp3-player/)
+>> /Border [ 0 0 0 ] /Rect [ 132.3529 90.02362 326.8829 102.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (http://ami.lnu.edu.ua/) >> /Border [ 0 0 0 ] /Rect [ 352.8705 492.0236 522.7546 504.0236 ] /Subtype /Link /Type /Annot >>
+<<
+/Annots [ 8 0 R 9 0 R 10 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://ami.lnu.edu.ua/) >> /Border [ 0 0 0 ] /Rect [ 153.7323 480.0236 205.4123 492.0236 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.credential.net/g231axkb?key=bb02da1a9d003f2e8a67ee078785515271b064e95b4ce8e83fc66136badb4e43)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 720.0236 383.2623 732.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 13 0 obj
-<< /Annots [ 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-11-19&ci=AWS00402362)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 705.0236 354.3523 717.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 14 0 obj
-<< /Outlines 16 0 R /PageLabels 32 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://ami.lnu.edu.ua/)
+>> /Border [ 0 0 0 ] /Rect [ 329.9023 645.0236 522.7546 657.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20171223080313-02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20171223080313-02'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Yevgen Runts) /Trapped /False >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://ami.lnu.edu.ua/)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 633.0236 205.4123 645.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
 16 0 obj
-<< /Count 12 /First 17 0 R /Last 27 0 R /Type /Outlines >>
+<<
+/Annots [ 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
 17 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 707.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (About) >>
+<<
+/Outlines 19 0 R /PageLabels 38 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog
+>>
 endobj
 18 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 584.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Contact information) >>
+<<
+/Author () /CreationDate (D:20200910104041-02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200910104041-02'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Yevgen Runts) /Trapped /False
+>>
 endobj
 19 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 479.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (Technical skills) >>
+<<
+/Count 14 /First 20 0 R /Last 32 0 R /Type /Outlines
+>>
 endobj
 20 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 293.0236 0 ] /Next 21 0 R /Parent 16 0 R /Prev 19 0 R /Title (Languages) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 707.0236 0 ] /Next 21 0 R /Parent 19 0 R /Title (Contact information)
+>>
 endobj
 21 0 obj
-<< /Count 5 /Dest [ 6 0 R /XYZ 62.69291 218.0236 0 ] /First 22 0 R /Last 26 0 R /Next 27 0 R /Parent 16 0 R 
-  /Prev 20 0 R /Title (Experience) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 587.0236 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Summary of qualifications)
+>>
 endobj
 22 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 185.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (N-iX \(03.2017 - present\)) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 374.0236 0 ] /Next 23 0 R /Parent 19 0 R /Prev 21 0 R /Title (Skills)
+>>
 endobj
 23 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 765.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (EPAM Systems \(07.2010 - 03.2017\)) >>
+<<
+/Count 6 /Dest [ 6 0 R /XYZ 62.69291 188.0236 0 ] /First 24 0 R /Last 29 0 R /Next 30 0 R /Parent 19 0 R 
+  /Prev 22 0 R /Title (Experience)
+>>
 endobj
 24 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 411.0236 0 ] /Next 25 0 R /Parent 21 0 R /Prev 23 0 R /Title (Intellias, Inc. \(08.2009 \205 07.2010\)) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 155.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (Realnode \(04.2019 - present\))
+>>
 endobj
 25 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 231.0236 0 ] /Next 26 0 R /Parent 21 0 R /Prev 24 0 R /Title (SoftServe, Inc. \(02.2008 - 08.2009\)) >>
+<<
+/Dest [ 7 0 R /XYZ 62.69291 657.0236 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (SoftServe \(08.2018 - 04.2019\))
+>>
 endobj
 26 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 141.0236 0 ] /Parent 21 0 R /Prev 25 0 R /Title (Other) >>
+<<
+/Dest [ 7 0 R /XYZ 62.69291 240.0236 0 ] /Next 27 0 R /Parent 23 0 R /Prev 25 0 R /Title (N-iX \(03.2017 - 08.2018\))
+>>
 endobj
 27 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 537.0236 0 ] /Parent 16 0 R /Prev 21 0 R /Title (Education) >>
+<<
+/Dest [ 7 0 R /XYZ 62.69291 96.02362 0 ] /Next 28 0 R /Parent 23 0 R /Prev 26 0 R /Title (EPAM Systems \(07.2010 - 03.2017\))
+>>
 endobj
 28 0 obj
-<< /Count 3 /Kids [ 6 0 R 7 0 R 13 0 R ] /Type /Pages >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 489.0236 0 ] /Next 29 0 R /Parent 23 0 R /Prev 27 0 R /Title (Intellias, Inc. \(08.2009 \205 07.2010\))
+>>
 endobj
 29 0 obj
-<< /Length 7433 >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 357.0236 0 ] /Parent 23 0 R /Prev 28 0 R /Title (Other)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 16 0 R /XYZ 62.69291 765.0236 0 ] /Next 31 0 R /Parent 19 0 R /Prev 23 0 R /Title (Certifications)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 16 0 R /XYZ 62.69291 690.0236 0 ] /Next 32 0 R /Parent 19 0 R /Prev 30 0 R /Title (Education)
+>>
+endobj
+32 0 obj
+<<
+/Dest [ 16 0 R /XYZ 62.69291 618.0236 0 ] /Parent 19 0 R /Prev 31 0 R /Title (Languages)
+>>
+endobj
+33 0 obj
+<<
+/Count 4 /Kids [ 6 0 R 7 0 R 11 0 R 16 0 R ] /Type /Pages
+>>
+endobj
+34 0 obj
+<<
+/Length 6703
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 168.2649 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Yevgen Runts) Tj T* -168.2649 0 Td ET
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 168.2649 0 Td (Yevgen Runts) Tj T* -168.2649 0 Td ET
 Q
 Q
 q
 1 0 0 1 62.69291 719.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 193.8149 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Software Engineer) Tj T* -193.8149 0 Td ET
+BT 1 0 0 1 0 2 Tm 191.0449 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Software Engineer) Tj T* -191.0449 0 Td ET
 Q
 Q
 q
 1 0 0 1 62.69291 686.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (About) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 596.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .80061 Tw (Having started my career working on small dynamic projects 9 years ago, I've extended my expertise to) Tj T* 0 Tw 2.566905 Tw (developing RIA's on enterprise level, using MVC frameworks and design patterns. For possibility to) Tj T* 0 Tw .785542 Tw (develop and maintain all application\222s layers I started using Python 6 years ago and now it is my mostly) Tj T* 0 Tw 2.283555 Tw (used programming language. Web development was always my main priority so I\222m skilled in using) Tj T* 0 Tw .019982 Tw (HTML/CSS/JS stack and experienced in working with Django and Flask. Participation in OpenStack global) Tj T* 0 Tw 1.127984 Tw (community is one of the greatest challenges in my professional experience. Some of my strengths are:) Tj T* 0 Tw (flexibility, in-depth research, willingness to learn and use new technologies.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 563.0236 cm
-q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact information) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 551.0236 cm
+1 0 0 1 62.69291 674.0236 cm
 Q
 q
-1 0 0 1 62.69291 536.0236 cm
+1 0 0 1 62.69291 659.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -149,7 +255,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 521.0236 cm
+1 0 0 1 62.69291 644.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -163,7 +269,6 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 .501961 rg
-0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yevhenrunts@gmail.com) Tj T* ET
 Q
 Q
@@ -171,7 +276,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 506.0236 cm
+1 0 0 1 62.69291 629.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -192,7 +297,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 491.0236 cm
+1 0 0 1 62.69291 614.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 25.24937 0 Td (Telegram:) Tj T* -25.24937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (@yrunts) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -206,7 +332,6 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 .501961 rg
-0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/yrunts) Tj T* ET
 Q
 Q
@@ -214,20 +339,89 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 458.0236 cm
+1 0 0 1 62.69291 566.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical skills) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Summary of qualifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (More than 12 years of work experience as an Architect, Team Lead and Software Engineer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 7.373307 Tw (Solid understanding of the software engineering concepts, practices, software development) Tj T* 0 Tw .966976 Tw (methodologies and software architecture. Profound knowledge of enterprise application architecture and) Tj T* 0 Tw (design patterns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.023095 Tw (Considerable experience in building products from scratch: starting from hiring the team, defining business) Tj T* 0 Tw .43498 Tw (requirements and constraints, planning, designing, implementing MVP and ending by solution launch and) Tj T* 0 Tw (maintenance.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 446.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Certified GCP and AWS solution architect.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 431.0236 cm
+1 0 0 1 62.69291 428.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Full-stack engineer with practical skills in modern MVC frameworks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .651412 Tw (I am flexible, self-organized, result-oriented, driven by getting things done and meet business goals. The) Tj T* 0 Tw 2.54152 Tw (greatest motivation for me is building robust, secure, cost-efficient solutions while applying the best) Tj T* 0 Tw (development practices.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 341.0236 cm
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.36937 0 Td (Design:) Tj T* -36.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .241155 Tw (Software Architecture Design, UML, Design Patterns, C4 Model, Twelve-Factor App) Tj T* 0 Tw (methodology) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 287.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 35.26937 0 Td (Coding:) Tj T* -35.26937 0 Td ET
@@ -237,35 +431,35 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python, ActionScript 3, JavaScript, TypeScript) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.438079 Tw (Python\(expert\), ActionScript 3\(proficient\), JavaScript\(prior experience\), Java\(prior) Tj T* 0 Tw (experience\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 272.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 51.92937 0 Td (Web) Tj T* -41.13 0 Td (Frameworks:) Tj T* -10.79937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 10.79937 0 Td (Frameworks:) Tj T* -10.79937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 15 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Django, Flask, Google App Engine, Flex, Angular, Angular2,) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Flask, Django, Google App Engine, FastAPI, Flex, React, Angular2) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 62.69291 257.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -279,39 +473,18 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PostgreSQL, MySQL, MongoDB) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PostgreSQL, MySQL, MongoDB, Cloud Firestore) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 362.0236 cm
+1 0 0 1 62.69291 230.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 39.13937 0 Td (Project) Tj T* -30.55 0 Td (Management:) Tj T* -8.58937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Git, SVN) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 347.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 6 15 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 34.13937 0 Td (System:) Tj T* -34.13937 0 Td ET
@@ -321,14 +494,14 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nginx, uWSGI, Gunicorn, Redis, Memcahce, RabbitMQ, Vagrant, Docker, Graylog) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.358628 Tw (Kubernetes, Docker, RabbitMQ, Nginx, uWSGI, Gunicorn, Redis, Memcahce,) Tj T* 0 Tw (Vagrant, Graylog, Keyclock, Elasticsearch) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 332.0236 cm
+1 0 0 1 62.69291 215.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -342,44 +515,981 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Heroku, AWS, OpenStack based clouds, GCP) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GCP, AWS, Azure, Heroku) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 305.0236 cm
+1 0 0 1 62.69291 200.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 25.80937 0 Td (Operating) Tj T* 2.77 0 Td (Systems:) Tj T* -28.57937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 7.48937 0 Td (Methodology:) Tj T* -7.48937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 15 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MacOS, Linux/Ubuntu) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Agile, SCRUM, XP, Kanban, Test Driven Development) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 272.0236 cm
+1 0 0 1 62.69291 167.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Realnode \(04.2019 - present\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 107.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.283828 Tw (Solution for condominiums management for Sweden market with the target audience of 300k users.) Tj T* 0 Tw (Provides web and mobile applications for board members, accountants and tenants.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+Q
+ 
+endstream
+endobj
+35 0 obj
+<<
+/Length 7323
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+q
+BT 1 0 0 1 0 26 Tm 2.139976 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Solution architecture. Full technical ownership over the system. Team leading.) Tj T* 0 Tw .579974 Tw (Architectural decisions evaluation and documentation. Backend and DevOps engineering. Integrated) Tj T* 0 Tw (the accounting data with ERP systems \(Fortnox, Incit, Pyramid\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 26 Tm 3.675529 Tw 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Python 3, Flask, FastAPI, SQLAlchemy, Celery, PostgreSQL, RabbitMQ,) Tj T* 0 Tw .079069 Tw (Docker, GCP \(GKE, GCS, Cloud Functions, Stackdriver, BigQuery, Cloud SQL, Firestore\), Terraform,) Tj T* 0 Tw (Cloudflare.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team size:) Tj /F1 10 Tf ( 9 team members.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (SoftServe \(08.2018 - 04.2019\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.757251 Tw 12 TL /F2 10 Tf 0 0 0 rg (Solution Architecture Group.) Tj /F1 10 Tf ( Numerous assignments across the company to solve critical issues.) Tj T* 0 Tw (Participated as a technical expert in project discoveries and customer engagement meetings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Canadian company from the agricultural domain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 68 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.450976 Tw (Evaluated and prototyped system migration to the microservices architecture serving under) Tj T* 0 Tw (Azure API Management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Integrated with Keyclock for identity and access management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented the client library for Azure Service Bus compliant with AMQP 1.0.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Improved DB performance leveraging recursive CTE queries for hierarchical data.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Leading toy manufacturer from Denmark.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.193555 Tw (Migrated the solution to use serverless approach on AWS using AWS Lambda and AWS API) Tj T* 0 Tw (Management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Setuped CI/CD with Gitlab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Germany television company.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Member of the discovery team.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Handed over and documented existing solution architecture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prepared resource planning, roadmap and high-level estimations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Successful discovery phase leads to more than 30 positions opened by the customer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Internal project management tool.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.394976 Tw (Closed security vulnerabilities reviewed by penetration testings team included: broken access) Tj T* 0 Tw (control, XSS, security misconfiguration, etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The project was successfully launched and passed penetration testing after refactoring.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker at the conference in India.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Topic: "Approaches for legacy systems modernization".) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (N-iX \(03.2017 - 08.2018\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 87 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (FINQR.) Tj /F1 10 Tf ( Fintech solution for automated invoice management and bookkeeping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+q
+BT 1 0 0 1 0 26 Tm 2.09122 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Team leading. Project architecture development. Applied the twelve-factor) Tj T* 0 Tw 4.079974 Tw (app methodology. REST API implementation. Implemented the subsystem for document) Tj T* 0 Tw (management and reporting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 14 Tm 2.169974 Tw 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Python 3, PostgreSQL, RabbitMQ, Flask, SQLAlchemy, Celery, React,) Tj T* 0 Tw (Redux, Docker, Kubernetes, Google Cloud Storage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team size:) Tj /F1 10 Tf ( 7 team members.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+Q
+q
+1 0 0 1 62.69291 78.02362 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (EPAM Systems \(07.2010 - 03.2017\)) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+36 0 obj
+<<
+/Length 7634
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 759.0236 cm
+Q
+q
+1 0 0 1 62.69291 759.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (RetSKU.) Tj /F1 10 Tf ( SaaS platform for collecting and analyzing sales data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+q
+BT 1 0 0 1 0 14 Tm .007752 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Implemented REST API and ETL scripts. Requirements management. Project) Tj T* 0 Tw (infrastructure maintenance. Development of the UI for administration using Angular2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 14 Tm 1.061976 Tw 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Python 3, PostgreSQL, RabbitMQ, Amazon Redshift, Amazon S3, Flask,) Tj T* 0 Tw (SQLAlchemy, Angular, Heroku, Ansible, Scrapy, Celery, Angular2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team size:) Tj /F1 10 Tf ( 4 team members.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+BT 1 0 0 1 0 14 Tm 1.158443 Tw 12 TL /F2 10 Tf 0 0 0 rg (AppGallery.) Tj /F1 10 Tf ( The web site provides possibility to customers to register companies and to describe) Tj T* 0 Tw (provided services and applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Web site development. Bug fixing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Python, Google App Engine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team size:) Tj /F1 10 Tf ( 8 team members.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Wideorbit.) Tj /F1 10 Tf ( Modular system for TV/Radio channels management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 14 Tm .206342 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Flex team lead. Designed and developed the library with generic components) Tj T* 0 Tw (used by the team across all modules. Mentorship.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Flex 3/4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team size:) Tj /F1 10 Tf ( 30-40 team members.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Intellias, Inc. \(08.2009 \226 07.2010\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+q
+BT 1 0 0 1 0 14 Tm 1.53248 Tw 12 TL /F2 10 Tf 0 0 0 rg (Flash Catalogue Software.) Tj /F1 10 Tf ( PDF to interactive web catalogs converter. The engine supports text) Tj T* 0 Tw (search, video and audio elements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 14 Tm 1.95372 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Designed project architecture and communication formats. Interactive web) Tj T* 0 Tw (viewer for converted catalogs implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Flex 3, AIR, Ant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team size:) Tj /F1 10 Tf ( 5 team members.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Other) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Gruveo.) Tj /F1 10 Tf ( Instant video calling tool.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 14 Tm 4.03622 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Code refactoring. Skinning components. Development of a multilingual) Tj T* 0 Tw (interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Flex 4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (URL:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (https://www.gruveo.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+BT 1 0 0 1 0 14 Tm 1.900814 Tw 12 TL /F2 10 Tf 0 0 0 rg (Banner Builder.) Tj /F1 10 Tf ( Rich Internet Application for banners creation. Includes web, desktop and iPad) Tj T* 0 Tw (versions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Project management. Development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Flex 4, PHP, AMFPHP, Amazon S3, Python, Django.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (URL:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (http://www.allstatebanners.com/banner-designer/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Skinnable web MP3 player.) Tj /F1 10 Tf ( Open source mp3 web player.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities:) Tj /F1 10 Tf ( Development of the player. Integrated with desktop-like web application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies:) Tj /F1 10 Tf ( Flex 4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (URL:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (https://code.google.com/p/flex4-mp3-player/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+Q
+ 
+endstream
+endobj
+37 0 obj
+<<
+/Length 2085
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Certifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 16.33937 0 Td (2018 - 2020:) Tj T* -16.33937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Google Cloud Certified Professional Cloud Architect) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 16.33937 0 Td (2019 - 2022:) Tj T* -16.33937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (AWS Certified Solutions Architect - Associate) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 16.33937 0 Td (2002 - 2008:) Tj T* -16.33937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.828039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Ivan Franko National University of Lviv. ) Tj 0 0 .501961 rg (Faculty of Applied Mathematics and) Tj T* 0 Tw (Informatics.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Languages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 260.0236 cm
+1 0 0 1 62.69291 585.0236 cm
 Q
 q
-1 0 0 1 62.69291 245.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -400,7 +1510,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 230.0236 cm
+1 0 0 1 62.69291 555.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -420,787 +1530,89 @@ Q
 q
 Q
 Q
-q
-1 0 0 1 62.69291 197.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Experience) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 167.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (N-iX \(03.2017 - present\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 155.0236 cm
-Q
-q
-1 0 0 1 62.69291 155.0236 cm
-Q
-q
-1 0 0 1 62.69291 83.02362 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 57 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (FINQR. ) Tj /F1 10 Tf (Service for automated invoice management and bookkeping.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 51 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 30 cm
-q
-BT 1 0 0 1 0 14 Tm 2.09122 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Team leading. Project architecture development. Appling the twelve-factor) Tj T* 0 Tw (app methodology. REST API implementation.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 14 Tm 2.169974 Tw 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Python 3, PostgreSQL, RabbitMQ, Flask, SQLAlchemy, Celery, React,) Tj T* 0 Tw (Redux, Docker, Kubernetes, Google Cloud Storage) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 83.02362 cm
-Q
  
 endstream
 endobj
-30 0 obj
-<< /Length 8534 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 747.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (EPAM Systems \(07.2010 - 03.2017\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 735.0236 cm
-Q
-q
-1 0 0 1 62.69291 735.0236 cm
-Q
-q
-1 0 0 1 62.69291 663.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 57 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (RetSKU. ) Tj /F1 10 Tf (SaaS platform for collecting and analysing sales data.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 51 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 30 cm
-q
-BT 1 0 0 1 0 14 Tm 1.365529 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Implementation of REST API and ETL scripts. Requirements management.) Tj T* 0 Tw (Project infrastructure maintenance. Development of UI for administration using Angular2.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 14 Tm 1.061976 Tw 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Python 3, PostgreSQL, RabbitMQ, Amazon Redshift, Amazon S3, Flask,) Tj T* 0 Tw (SQLAlchemy, Angular, Heroku, Ansible, Scrapy, Celery, Angular2.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 657.0236 cm
-Q
-q
-1 0 0 1 62.69291 609.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 33 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 33 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (TheButcher. ) Tj /F1 10 Tf (Tool for OpenStack clouds testing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Web UI development. Implementation of CLI and REST API.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Python, MySQL, SQLAlchemy, Flask, RabbitMQ, OpenStack.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 603.0236 cm
-Q
-q
-1 0 0 1 62.69291 555.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 33 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 33 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Thomson Reuters. ) Tj /F1 10 Tf (Migration engine.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Development of scripts for data migration from different sources. Bug fixing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Python, MongoDB, GEvent.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 549.0236 cm
-Q
-q
-1 0 0 1 62.69291 489.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 45 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 33 cm
-q
-BT 1 0 0 1 0 14 Tm 2.73748 Tw 12 TL /F2 10 Tf 0 0 0 rg (AppGallery. ) Tj /F1 10 Tf (Web site provides possibility to customers to register companies and to describe) Tj T* 0 Tw (provided services and applications.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Web site development. Bug fixing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Python, Google App Engine.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 483.0236 cm
-Q
-q
-1 0 0 1 62.69291 423.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 45 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 45 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Wideorbit. ) Tj /F1 10 Tf (Modular system for TV/Radio channels management.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 39 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 14 Tm 4.896976 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Flex team lead. Developing of the library with generic components.) Tj T* 0 Tw (Mentoring.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Flex 3/4.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 423.0236 cm
-Q
-q
-1 0 0 1 62.69291 393.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Intellias, Inc. \(08.2009 \226 07.2010\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 381.0236 cm
-Q
-q
-1 0 0 1 62.69291 381.0236 cm
-Q
-q
-1 0 0 1 62.69291 321.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 45 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 33 cm
-q
-BT 1 0 0 1 0 14 Tm .210888 Tw 12 TL /F2 10 Tf 0 0 0 rg (Clipgenerator Templates. ) Tj /F1 10 Tf (System creates slideshows with 3D transitions from user\222s pictures using) Tj T* 0 Tw (generated templates.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Development of transition effects in AS3.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (AS3, Papervision3D, Pixel Bender.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 315.0236 cm
-Q
-q
-1 0 0 1 62.69291 243.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 45 cm
-q
-BT 1 0 0 1 0 14 Tm 2.379069 Tw 12 TL /F2 10 Tf 0 0 0 rg (Flash Catalogue Software. ) Tj /F1 10 Tf (PDF to interactive web catalogues converter. Engine supports text) Tj T* 0 Tw (search, video and audio elements.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 39 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 14 Tm 8.267109 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Development of project architecture and communication formats.) Tj T* 0 Tw (Implementation of interactive web viewer for converted catalogues.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Flex 3, AIR, Ant.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 243.0236 cm
-Q
-q
-1 0 0 1 62.69291 213.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (SoftServe, Inc. \(02.2008 - 08.2009\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 201.0236 cm
-Q
-q
-1 0 0 1 62.69291 201.0236 cm
-Q
-q
-1 0 0 1 62.69291 153.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 33 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 33 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Photobox. ) Tj /F1 10 Tf (Online tool for post cards designing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Supporting and development components using Flex.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Flex 3, PHP, XML-RPC Server.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 153.0236 cm
-Q
-q
-1 0 0 1 62.69291 123.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Other) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 111.0236 cm
-Q
-q
-1 0 0 1 62.69291 111.0236 cm
-Q
-q
-1 0 0 1 62.69291 93.02362 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Gruveo. ) Tj /F1 10 Tf (Instant video calling tool.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
- 
-endstream
+38 0 obj
+<<
+/Nums [ 0 39 0 R 1 40 0 R 2 41 0 R 3 42 0 R ]
+>>
 endobj
-31 0 obj
-<< /Length 3414 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 705.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 47 Tm  T* ET
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 36 cm
-q
-BT 1 0 0 1 0 14 Tm 5.804252 Tw 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Code refactoring. Skinning components. Development of multilingual) Tj T* 0 Tw (interface.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Flex 4.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (URL:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (https://www.gruveo.com/) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 699.0236 cm
-Q
-q
-1 0 0 1 62.69291 621.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 63 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 51 cm
-q
-BT 1 0 0 1 0 14 Tm 1.900814 Tw 12 TL /F2 10 Tf 0 0 0 rg (Banner Builder. ) Tj /F1 10 Tf (Rich Internet Application for banners creation. Includes web, desktop and iPad) Tj T* 0 Tw (versions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 45 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 36 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Project management. Development.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Flex 4, PHP, AMFPHP, Amazon S3, Python, Django.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (URL:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (http://www.allstatebanners.com/banner-designer/) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 615.0236 cm
-Q
-q
-1 0 0 1 62.69291 549.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 51 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 51 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Skinnable web MP3 player. ) Tj /F1 10 Tf (Open source mp3 web player.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 45 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 36 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Responsibilities: ) Tj /F1 10 Tf (Development of the player.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 18 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Used technologies: ) Tj /F1 10 Tf (Flex 4.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (URL:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (https://code.google.com/p/flex4-mp3-player/) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 549.0236 cm
-Q
-q
-1 0 0 1 62.69291 516.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 504.0236 cm
-Q
-q
-1 0 0 1 62.69291 477.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 16.33937 0 Td (2002 - 2008:) Tj T* -16.33937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 14 Tm 3.828039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Ivan Franko National University of Lviv. ) Tj 0 0 .501961 rg (Faculty of Applied Mathematics and) Tj T* 0 Tw (Informatics.) Tj T* ET
-Q
-Q
-q
-Q
-Q
- 
-endstream
+39 0 obj
+<<
+/S /D /St 1
+>>
 endobj
-32 0 obj
-<< /Nums [ 0 33 0 R 1 34 0 R 2 35 0 R ] >>
+40 0 obj
+<<
+/S /D /St 2
+>>
 endobj
-33 0 obj
-<< /S /D /St 1 >>
+41 0 obj
+<<
+/S /D /St 3
+>>
 endobj
-34 0 obj
-<< /S /D /St 2 >>
-endobj
-35 0 obj
-<< /S /D /St 3 >>
+42 0 obj
+<<
+/S /D /St 4
+>>
 endobj
 xref
-0 36
-0000000000 65535 f
-0000000075 00000 n
-0000000119 00000 n
-0000000229 00000 n
-0000000344 00000 n
-0000000527 00000 n
-0000000707 00000 n
-0000000940 00000 n
-0000001149 00000 n
-0000001327 00000 n
-0000001529 00000 n
-0000001728 00000 n
-0000001906 00000 n
-0000002084 00000 n
-0000002339 00000 n
-0000002448 00000 n
-0000002722 00000 n
-0000002800 00000 n
-0000002909 00000 n
-0000003045 00000 n
-0000003178 00000 n
-0000003304 00000 n
-0000003471 00000 n
-0000003601 00000 n
-0000003752 00000 n
-0000003909 00000 n
-0000004063 00000 n
-0000004172 00000 n
-0000004286 00000 n
-0000004362 00000 n
-0000011852 00000 n
-0000020443 00000 n
-0000023914 00000 n
-0000023976 00000 n
-0000024013 00000 n
-0000024050 00000 n
+0 43
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000513 00000 n 
+0000000690 00000 n 
+0000000919 00000 n 
+0000001124 00000 n 
+0000001299 00000 n 
+0000001498 00000 n 
+0000001694 00000 n 
+0000001931 00000 n 
+0000002188 00000 n 
+0000002429 00000 n 
+0000002604 00000 n 
+0000002779 00000 n 
+0000003025 00000 n 
+0000003131 00000 n 
+0000003401 00000 n 
+0000003476 00000 n 
+0000003596 00000 n 
+0000003735 00000 n 
+0000003855 00000 n 
+0000004018 00000 n 
+0000004149 00000 n 
+0000004294 00000 n 
+0000004434 00000 n 
+0000004582 00000 n 
+0000004737 00000 n 
+0000004844 00000 n 
+0000004973 00000 n 
+0000005097 00000 n 
+0000005208 00000 n 
+0000005288 00000 n 
+0000012043 00000 n 
+0000019418 00000 n 
+0000027104 00000 n 
+0000029241 00000 n 
+0000029309 00000 n 
+0000029343 00000 n 
+0000029377 00000 n 
+0000029411 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(#+\000z\)A\014\267\257\314\262\335\004Ow\214) (#+\000z\)A\014\267\257\314\262\335\004Ow\214)]
- /Info 15 0 R /Root 14 0 R /Size 36 >>
+<<
+/ID 
+[<0e26ce46e002f820a767de58d2d441b6><0e26ce46e002f820a767de58d2d441b6>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 18 0 R
+/Root 17 0 R
+/Size 43
+>>
 startxref
-24087
+29445
 %%EOF

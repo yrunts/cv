@@ -3,128 +3,189 @@ Yevgen Runts
 ============
 .. class:: center
 
-Software Engineer
+**Software Engineer**
 
-About
--------------------
-Having started my career working on small dynamic projects 9 years ago,
-I've extended my expertise to developing RIA's on enterprise level, using MVC
-frameworks and design patterns. For possibility to develop and maintain all
-application’s layers I started using Python 6 years ago and now it is my
-mostly used programming language. Web development was always my main priority
-so I’m skilled in using HTML/CSS/JS stack and experienced in working with
-Django and Flask. Participation in OpenStack global community is one of the
-greatest challenges in my professional experience. Some of my strengths are:
-flexibility, in-depth research, willingness to learn and use new technologies.
 
 Contact information
 -------------------
 :Phone: +380681452074
 :Email: yevhenrunts@gmail.com
 :Skype: yevhen.runts
+:Telegram: \@yrunts
 :Github: https://github.com/yrunts
 
-Technical skills
-----------------
-:Coding: Python, ActionScript 3, JavaScript, TypeScript
-:Web Frameworks: Django, Flask, Google App Engine, Flex, Angular, Angular2,
-:Databases: PostgreSQL, MySQL, MongoDB
-:Project Management: Git, SVN
-:System: Nginx, uWSGI, Gunicorn, Redis, Memcahce, RabbitMQ, Vagrant, Docker,
-    Graylog
-:Platforms: Heroku, AWS, OpenStack based clouds, GCP
-:Operating Systems: MacOS, Linux/Ubuntu
 
-Languages
----------
-:Ukrainian: native
-:English: upper intermediate
+Summary of qualifications
+-------------------------
+More than 12 years of work experience as an Architect, Team Lead and Software
+Engineer.
+
+Solid understanding of the software engineering concepts, practices, software
+development methodologies and software architecture. Profound knowledge of
+enterprise application architecture and design patterns.
+
+Considerable experience in building products from scratch: starting from hiring
+the team, defining business requirements and constraints, planning, designing,
+implementing MVP and ending by solution launch and maintenance.
+
+Certified GCP and AWS solution architect.
+
+Full-stack engineer with practical skills in modern MVC frameworks.
+
+I am flexible, self-organized, result-oriented, driven by getting things done and
+meet business goals. The greatest motivation for me is building robust,
+secure, cost-efficient solutions while applying the best development practices.
+
+
+Skills
+------
+:Design: Software Architecture Design, UML, Design Patterns, C4 Model,
+    Twelve-Factor App methodology
+:Coding: Python(expert), ActionScript 3(proficient), JavaScript(prior
+    experience), Java(prior experience)
+:Frameworks: Flask, Django, Google App Engine, FastAPI, Flex, React,
+    Angular2
+:Databases: PostgreSQL, MySQL, MongoDB, Cloud Firestore
+:System: Kubernetes, Docker, RabbitMQ, Nginx, uWSGI, Gunicorn, Redis, Memcahce,
+    Vagrant, Graylog, Keyclock, Elasticsearch
+:Platforms: GCP, AWS, Azure, Heroku
+:Methodology: Agile, SCRUM, XP, Kanban, Test Driven Development
+
 
 Experience
 ----------
 
-N-iX (03.2017 - present)
+Realnode (04.2019 - present)
+++++++++++++++++++++++++++++
+Solution for condominiums management for Sweden market with the target audience
+of 300k users. Provides web and mobile applications for board members,
+accountants and tenants.
+
+    **Responsibilities:** Solution architecture. Full technical ownership over
+    the system. Team leading. Architectural decisions evaluation and
+    documentation. Backend and DevOps engineering. Integrated the accounting
+    data with ERP systems (Fortnox, Incit, Pyramid).
+
+    **Used technologies:** Python 3, Flask, FastAPI, SQLAlchemy,
+    Celery, PostgreSQL, RabbitMQ, Docker, GCP (GKE, GCS, Cloud
+    Functions, Stackdriver, BigQuery, Cloud SQL, Firestore), Terraform,
+    Cloudflare.
+
+    **Team size:** 9 team members.
+
+
+SoftServe (08.2018 - 04.2019)
++++++++++++++++++++++++++++++
+
+**Solution Architecture Group.** Numerous assignments across the company
+to solve critical issues. Participated as a technical expert in project
+discoveries and customer engagement meetings.
+
+- **Canadian company from the agricultural domain.**
+    Evaluated and prototyped system migration to the microservices architecture
+    serving under Azure API Management.
+
+    Integrated with Keyclock for identity and access management.
+
+    Implemented the client library for Azure Service Bus compliant with
+    AMQP 1.0.
+
+    Improved DB performance leveraging recursive CTE queries for hierarchical
+    data.
+
+- **Leading toy manufacturer from Denmark.**
+
+    Migrated the solution to use serverless approach on AWS using AWS Lambda
+    and AWS API Management.
+
+    Setuped CI/CD with Gitlab.
+
+- **Germany television company.**
+
+    Member of the discovery team.
+
+    Handed over and documented existing solution architecture.
+
+    Prepared resource planning, roadmap and high-level estimations.
+
+    Successful discovery phase leads to more than 30 positions opened by the
+    customer.
+
+- **Internal project management tool.**
+
+    Closed security vulnerabilities reviewed by penetration testings team
+    included: broken access control, XSS, security misconfiguration, etc.
+
+    The project was successfully launched and passed penetration testing
+    after refactoring.
+
+- **Speaker at the conference in India.**
+
+    Topic: "Approaches for legacy systems modernization".
+
+
+N-iX (03.2017 - 08.2018)
 ++++++++++++++++++++++++
 
-- **FINQR.** Service for automated invoice management and bookkeping.
+- **FINQR.** Fintech solution for automated invoice management and bookkeeping.
 
     **Responsibilities:** Team leading. Project architecture development.
-    Appling the twelve-factor app methodology. REST API implementation.
+    Applied the twelve-factor app methodology. REST API implementation.
+    Implemented the subsystem for document management and reporting.
 
     **Used technologies:** Python 3, PostgreSQL, RabbitMQ, Flask, SQLAlchemy,
-    Celery, React, Redux, Docker, Kubernetes, Google Cloud Storage
+    Celery, React, Redux, Docker, Kubernetes, Google Cloud Storage.
 
+    **Team size:** 7 team members.
 
 
 EPAM Systems (07.2010 - 03.2017)
 ++++++++++++++++++++++++++++++++
 
-- **RetSKU.** SaaS platform for collecting and analysing sales data.
+- **RetSKU.** SaaS platform for collecting and analyzing sales data.
 
-    **Responsibilities:** Implementation of REST API and ETL scripts.
+    **Responsibilities:** Implemented REST API and ETL scripts.
     Requirements management. Project infrastructure maintenance. Development
-    of UI for administration using Angular2.
+    of the UI for administration using Angular2.
 
     **Used technologies:** Python 3, PostgreSQL, RabbitMQ, Amazon Redshift,
     Amazon S3, Flask, SQLAlchemy, Angular, Heroku, Ansible, Scrapy, Celery,
     Angular2.
 
-- **TheButcher.** Tool for OpenStack clouds testing.
+    **Team size:** 4 team members.
 
-    **Responsibilities:** Web UI development. Implementation of CLI and
-    REST API.
-
-    **Used technologies:** Python, MySQL, SQLAlchemy, Flask, RabbitMQ,
-    OpenStack.
-
-- **Thomson Reuters.** Migration engine.
-
-    **Responsibilities:** Development of scripts for data migration from
-    different sources. Bug fixing.
-
-    **Used technologies:** Python, MongoDB, GEvent.
-
-- **AppGallery.** Web site provides possibility to customers to register
+- **AppGallery.** The web site provides possibility to customers to register
   companies and to describe provided services and applications.
 
     **Responsibilities:** Web site development. Bug fixing.
 
     **Used technologies:** Python, Google App Engine.
 
+    **Team size:** 8 team members.
+
 - **Wideorbit.** Modular system for TV/Radio channels management.
 
-    **Responsibilities:** Flex team lead. Developing of the library with
-    generic components. Mentoring.
+    **Responsibilities:** Flex team lead. Designed and developed the library
+    with generic components used by the team across all modules. Mentorship.
 
     **Used technologies:** Flex 3/4.
+
+    **Team size:** 30-40 team members.
+
 
 Intellias, Inc. (08.2009 – 07.2010)
 +++++++++++++++++++++++++++++++++++
 
-- **Clipgenerator Templates.** System creates slideshows with 3D transitions
-  from user’s pictures using generated templates.
+- **Flash Catalogue Software.** PDF to interactive web catalogs converter.
+  The engine supports text search, video and audio elements.
 
-    **Responsibilities:** Development of transition effects in AS3.
-
-    **Used technologies:** AS3, Papervision3D, Pixel Bender.
-
-- **Flash Catalogue Software.** PDF to interactive web catalogues converter.
-  Engine supports text search, video and audio elements.
-
-    **Responsibilities:** Development of project architecture and communication
-    formats. Implementation of interactive web viewer for converted catalogues.
+    **Responsibilities:** Designed project architecture and communication
+    formats. Interactive web viewer for converted catalogs implementation.
 
     **Used technologies:** Flex 3, AIR, Ant.
 
+    **Team size:** 5 team members.
 
-SoftServe, Inc. (02.2008 - 08.2009)
-+++++++++++++++++++++++++++++++++++
-
-- **Photobox.** Online tool for post cards designing.
-
-    **Responsibilities:** Supporting and development components using Flex.
-
-    **Used technologies:** Flex 3, PHP, XML-RPC Server.
 
 Other
 +++++
@@ -132,7 +193,7 @@ Other
 - **Gruveo.** Instant video calling tool.
 
     **Responsibilities:** Code refactoring. Skinning components.
-    Development of multilingual interface.
+    Development of a multilingual interface.
 
     **Used technologies:** Flex 4.
 
@@ -149,17 +210,29 @@ Other
 
 - **Skinnable web MP3 player.** Open source mp3 web player.
 
-    **Responsibilities:** Development of the player.
+    **Responsibilities:** Development of the player. Integrated with
+    desktop-like web application.
 
     **Used technologies:** Flex 4.
 
     **URL:** https://code.google.com/p/flex4-mp3-player/
 
 
+Certifications
+--------------
+:2018 - 2020: `Google Cloud Certified Professional Cloud Architect <https://www.credential.net/g231axkb?key=bb02da1a9d003f2e8a67ee078785515271b064e95b4ce8e83fc66136badb4e43>`_
+:2019 - 2022: `AWS Certified Solutions Architect - Associate <https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-11-19&ci=AWS00402362>`_
+
+
 Education
 ---------
-
 :2002 - 2008: Ivan Franko National University of Lviv. `Faculty of
     Applied Mathematics and Informatics.`__
 
 __ http://ami.lnu.edu.ua/
+
+
+Languages
+---------
+:Ukrainian: native
+:English: upper intermediate
